@@ -1,1 +1,1 @@
-A RESTful API for simple todo applications.
+A RESTful API for productivity applications.
