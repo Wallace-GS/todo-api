@@ -1,1 +1,1 @@
-A RESTful API for productivity applications.
+A RESTful API server for productivity applications.
